@@ -1,0 +1,42 @@
+div{
+    text-align: center;
+    margin-top: 150px;
+    display: inline-block;
+    justify-content: center;
+    margin-left: 70vh;
+    padding: 13px;
+}
+a{
+    text-decoration: none;
+    font-size: 2rem;
+    border: 2px solid black;
+    padding: 1rem 2rem;
+    background: none;
+
+  
+
+}
+a{
+    border-radius: 15px;
+    color: white;
+    border: 2px solid white;
+    font-weight: bolder;
+}
+body{
+    background-color: rgb(6, 6, 54);
+}
+h2{
+    color: red;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+a:hover{
+    color: white;
+    background-color: rgb(6, 85, 59);
+    font-weight: bolder;
+    border: 2px solid rgb(6, 85, 59);
+    
+    
+    font-size: 2.5rem;
+
+}
